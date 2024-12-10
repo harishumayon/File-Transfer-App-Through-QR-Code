@@ -24,7 +24,7 @@ pip install pyqrcode pypng
 
 
 
-## Useful Resources
+## **Useful Resources**
 
 If you want to explore more about the libraries and technologies used in this project, here are some helpful links:
 
