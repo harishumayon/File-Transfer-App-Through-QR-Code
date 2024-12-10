@@ -11,6 +11,15 @@ This project is ideal for sharing files in a local network without the need for 
 - Simple and easy-to-use interface with automatic file serving.
 - No need for internet access, works on the same network.
 
+## **Useful Resources**
+
+If you want to explore more about the libraries and technologies used in this project, here are some helpful links:
+
+- [PyQRCode Documentation](https://pythonhosted.org/PyQRCode/) – Learn more about the `pyqrcode` library used for generating QR codes in this project.
+
+- [Python Sockets Documentation](https://docs.python.org/3/howto/sockets.html) – Explore Python's built-in support for socket programming and understand how it is used to create the local HTTP server in this project.
+
+
 ## Requirements
 Before you can run the project, you need to have the following installed:
 
@@ -24,10 +33,3 @@ pip install pyqrcode pypng
 
 
 
-## **Useful Resources**
-
-If you want to explore more about the libraries and technologies used in this project, here are some helpful links:
-
-- [PyQRCode Documentation](https://pythonhosted.org/PyQRCode/) – Learn more about the `pyqrcode` library used for generating QR codes in this project.
-
-- [Python Sockets Documentation](https://docs.python.org/3/howto/sockets.html) – Explore Python's built-in support for socket programming and understand how it is used to create the local HTTP server in this project.
